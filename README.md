@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jayarani.... @jayalloyd
+- 👋 Hi, I’m Jayarani.
 - 👀 I’m interested in Full stack Java Development
 
 <!---
