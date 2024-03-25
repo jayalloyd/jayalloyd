@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jayarani.
 - 👀 I’m interested in Full stack Java Development
 -  I’m looking to collaborate on Exciting projects
--  You can reach me through linkedIn
+
   
   
 
