@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Jayarani.
-- 👀 I’m interested in Full stack Java Development
+- 👋 Hi, I’m Jayarani
 -  I’m looking to collaborate on Exciting projects
 
   
