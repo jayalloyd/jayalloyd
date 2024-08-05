@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jaya Rani .Y.S
 - 👀 I’m interested in Java programming
-- 🌱 I’m currently learning ..Spring Boot 
+- 🌱 I’m currently learning ..Spring Boot & MicroServices
 - 💞️ I’m looking to collaborate on ...New projects
 - 📫 How to reach me ...LinkedIn: https://www.linkedin.com/in/jayarani-ys/
 
