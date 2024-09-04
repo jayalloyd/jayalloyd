@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning .... MicroServices
 - 💞️ I’m looking to collaborate on ...New projects
 - 📫 How to reach me ...LinkedIn: https://www.linkedin.com/in/jayarani-ys/
+- Skills- Java, Hibernate ,Spring ,Spring Boot 
 
 <!---
 jayalloyd/jayalloyd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
