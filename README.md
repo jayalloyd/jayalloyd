@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaya Rani .Y.S.</h1>
-<img src=""  height="250" width="300">
 <h3 align="center">Java Developer from Kerala,India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayalloyd&label=Profile%20views&color=0e75b6&style=flat" alt="jayalloyd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayalloyd" alt="jayalloyd" /></a> </p>
 
