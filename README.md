@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jaya Rani .Y.S.</h1>
-<img src="https://www.google.com/imgres?q=girl%20coding%20images%20copyright%20fre%20images&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fcute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fwoman-coding&docid=J_tr0ha9EXBK5M&tbnid=TAGQWKfcsnjI_M&vet=12ahUKEwiM-MH_n_yIAxX43jgGHU7_M1UQM3oECFsQAA..i&w=626&h=626&hcb=2&ved=2ahUKEwiM-MH_n_yIAxX43jgGHU7_M1UQM3oECFsQAA)](https://images.app.goo.gl/nxBt6RrGrwDbMoNB8"  height="500" width="400">
+<img src=""  height="250" width="300">
 <h3 align="center">Java Developer from Kerala,India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayalloyd&label=Profile%20views&color=0e75b6&style=flat" alt="jayalloyd" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jayalloyd&label=Profile%20views&color=0e75b6&style=flat](https://img.freepik.com/premium-vector/girl-coding-with-laptop-illustration_418302-2384.jpg" alt="jayalloyd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayalloyd" alt="jayalloyd" /></a> </p>
 
