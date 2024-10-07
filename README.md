@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayalloyd" alt="jayalloyd" /></a> </p>
 
-- 🌱 I’m currently learning **Complete Web Development via Delta Course- Apna Collegee**
+- 🌱 I’m currently learning **Complete Web Development via Delta Course- Apna College**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jayalloyd](https://github.com/jayalloyd)
 
@@ -29,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayalloyd&show_icons=true&locale=en" alt="jayalloyd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayalloyd&" alt="jayalloyd" /></p>
-
