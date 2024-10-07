@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayalloyd" alt="jayalloyd" /></a> </p>
 
-- 🌱 I’m currently learning **Complete Web Development via Delta Course- Apna College**
+- 🌱 I’m currently learning **frontend technologies **
 
 - 👨‍💻 All of my projects are available at [https://github.com/jayalloyd](https://github.com/jayalloyd)
 
