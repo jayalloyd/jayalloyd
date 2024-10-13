@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning **frontend technologies **
 
-- 👨‍💻 All of my projects are available at [https://github.com/jayalloyd](https://github.com/jayalloyd)
+- 👨‍💻 All of my projects are available at https://codepen.io/Jayarani-YS  & [https://github.com/jayalloyd](https://github.com/jayalloyd)
+  
 
 - 💬 Ask me about **Java,Spring Boot**
 
