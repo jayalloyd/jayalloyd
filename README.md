@@ -8,7 +8,11 @@
 
 - 💬 Ask me about **Java,Spring Boot**
 
-- 📫 How to reach me **linkedIn**
+- 📫 How to reach me
+
+ linkedIn ->
+ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jayarani-ys" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/jayarani-ys?trk=profile-badge">Jaya Rani .Y.S.</a></div>
+              
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
