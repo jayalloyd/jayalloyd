@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jaya Rani .Y.S.</h1>
-<h3 align="center">Software Developer from Kerala,India</h3>
+<h3 align="center">Full Stack Developer from Kerala,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayalloyd&label=Profile%20views&color=0e75b6&style=flat" alt="jayalloyd" /> </p>
 
 - 👨‍💻 All of my projects are available at  [https://github.com/jayalloyd](https://github.com/jayalloyd)
   
 
-- 💬 Ask me about **Java,Spring Boot**
+- 💬 Ask me about **Java,Spring Boot,MERN stack**
 
 - 📫 How to reach me
 
