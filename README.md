@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at  [https://github.com/jayalloyd](https://github.com/jayalloyd)
   
 
-- 💬 Ask me about **Java,Spring Boot,MERN stack**
+- 💬 Ask me about **Java,Spring Boot*                                            -currently learning MERN stack
 
 - 📫 How to reach me
 
