@@ -1,5 +1,5 @@
 #  About Me:
-🔭 I’m currently working on front end projects<br>👯 I’m looking to collaborate on new projects<br>🌱 I’m currently learning MERN stack<br>💬 Ask me about Java , Spring Boot,  Micro Services<br>
+🔭 I’m currently working on front end projects<br>👯 I’m looking for remote or freelancing opportunities<br>🌱 I’m currently learning MERN stack<br>💬 Ask me about Java , Spring Boot,  Micro Services<br>
 - 📫 How to reach me
 
  linkedIn ->
