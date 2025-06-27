@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 
 - 🚀 Full Stack Developer passionate about building web applications
 - 👀 Interested in Full Stack Development 
-- 🌱 Currently learning and deepening my expertise in advanced MERN stack concepts
+- 🌱 Currently learning and deepening my expertise in DSA
 - 💞️ Open to collaborating on remote projects and exciting new ideas
 
 ---
@@ -18,9 +18,7 @@ Welcome to my GitHub profile!
 ## 🛠️ Tech Stack
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 <br>
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
 ![Spring AI](https://img.shields.io/badge/-Spring%20AI-6DB33F?logo=spring&logoColor=white)
