@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 
 - 🚀 Full Stack Developer passionate about building web applications
 - 👀 Interested in Full Stack Development 
-- 🌱 Currently learning and deepening my expertise in DSA
+- 🌱 Currently learning and deepening my expertise in DSA & MERN Stack
 - 💞️ Open to collaborating on remote projects and exciting new ideas
 
 ---
