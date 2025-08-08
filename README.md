@@ -1,6 +1,13 @@
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=jayalloyd)
+
+
 👋 Hi, I’m Jaya...
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jayalloyd/jayalloyd/main/jayalloydgithub.jpg" width="150" height="150" style="border-radius: 50%;">
+</p>
 
 Welcome to my GitHub profile!
 
@@ -9,15 +16,15 @@ Welcome to my GitHub profile!
 ## 👨‍💻 About Me
 
 - 🚀 Aspiring Full-Stack Developer
-- 👀 Interested in Full Stack Development 
-- 🌱  Currently deepening expertise in Data Structures & Algorithms and exploring advanced MERN stack concepts
+- 👀 Interested in Full Stack Development 
+- 🌱  Currently deepening expertise in Data Structures & Algorithms and exploring advanced MERN stack concepts
 - 💞️ Open to collaborating on remote projects and exciting new ideas
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend & AI**  
+**Backend & AI**  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
 ![Spring AI](https://img.shields.io/badge/-Spring%20AI-6DB33F?logo=spring&logoColor=white)
@@ -25,21 +32,21 @@ Welcome to my GitHub profile!
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 
-**Frontend**  
+**Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![EJS](https://img.shields.io/badge/-EJS-8C8C8C?logo=ejs&logoColor=white)
 
-**Database & Tools**  
+**Database & Tools**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
-##  Featured Projects
-- **Intellichef** – AI-powered recipe assistant (Spring AI + React)  
-- **StayNest** – Airbnb clone (Node.js + MongoDB + EJS)  
+##  Featured Projects
+- **Intellichef** – AI-powered recipe assistant (Spring AI + React)  
+- **StayNest** – Airbnb clone (Node.js + MongoDB + EJS)  
 - **DSA-Practice** – Java DSA solutions: 100+ problems
 ---
 ## 📊 GitHub Stats
