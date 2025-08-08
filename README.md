@@ -37,7 +37,10 @@ Welcome to my GitHub profile!
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
-
+##  Featured Projects
+- **Intellichef** – AI-powered recipe assistant (Spring AI + React)  
+- **StayNest** – Airbnb clone (Node.js + MongoDB + EJS)  
+- **DSA-Practice** – Java DSA solutions: 100+ problems
 ---
 ## 📊 GitHub Stats
 ![Jaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayalloyd&show_icons=true&theme=tokyonight)
