@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 
 ## 👨‍💻 About Me
 
-- 🚀 Full Stack Developer passionate about building web applications
+- 🚀 Aspiring Full-Stack Developer
 - 👀 Interested in Full Stack Development 
 - 🌱  Currently deepening expertise in Data Structures & Algorithms and exploring advanced MERN stack concepts
 - 💞️ Open to collaborating on remote projects and exciting new ideas
