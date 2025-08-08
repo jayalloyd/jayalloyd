@@ -5,9 +5,6 @@
 
 👋 Hi, I’m Jaya...
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jayalloyd/jayalloyd/main/jayalloydgithub.jpg" width="150" height="150" style="border-radius: 50%;">
-</p>
 
 Welcome to my GitHub profile!
 
