@@ -5,17 +5,21 @@
 
 👋 Hi, I’m Jaya...
 
+Full-Stack Developer | Career Switcher | Open Source Contributor
+
 
 Welcome to my GitHub profile!
 
 ---
+👨‍💻 About Me
 
-## 👨‍💻 About Me
+💻 Building end-to-end web apps with Java Spring Boot, React, Node.js, and MongoDB/PostgreSQL
 
-- 🚀 Aspiring Full-Stack Developer
-- 👀 Interested in Full Stack Development 
-- 🌱  Currently deepening expertise in Data Structures & Algorithms and exploring advanced MERN stack concepts
-- 💞️ Open to collaborating on remote projects and exciting new ideas
+🎯 Career switcher leveraging prior professional skills + hands-on coding projects
+
+📚 Currently enhancing DSA in Java & exploring AI integrations (Spring AI)
+
+🤝 Open to collaborating on remote projects and open-source contributions
 
 ---
 
@@ -41,10 +45,15 @@ Welcome to my GitHub profile!
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
-##  Featured Projects
-- **Intellichef** – AI-powered recipe assistant (Spring AI + React)  
-- **StayNest** – Airbnb clone (Node.js + MongoDB + EJS)  
-- **DSA-Practice** – Java DSA solutions: 100+ problems
+## 📌 Featured Projects
+
+IntelliChef – AI-powered recipe assistant (Spring AI + React)
+
+StayNest – Airbnb-inspired property listing platform (Node.js + MongoDB + EJS)
+
+DSA-Practice – Java-based DSA solutions: 100+ problems solved
+
+
 ---
 ## 📊 GitHub Stats
 ![Jaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayalloyd&show_icons=true&theme=tokyonight)
