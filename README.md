@@ -45,13 +45,7 @@ Welcome to my GitHub profile!
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
-## 📌 Featured Projects
 
-IntelliChef – AI-powered recipe assistant (Spring AI + React)
-
-StayNest – Airbnb-inspired property listing platform (Node.js + MongoDB + EJS)
-
-DSA-Practice – Java-based DSA solutions: 100+ problems solved
 
 
 ---
