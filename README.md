@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 
 🎯 Career switcher leveraging prior professional skills + hands-on coding projects
 
-📚 Currently enhancing DSA in Java & exploring AI integrations (Spring AI)
+📚 Currently enhancing DSA in Java 
 
 🤝 Open to collaborating on remote projects and open-source contributions
 
