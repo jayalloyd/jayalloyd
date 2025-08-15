@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 
 🎯 Career switcher leveraging prior professional skills + hands-on coding projects
 
-📚 Currently enhancing DSA in Java 
+📚 Currently focused on strengthening my Data Structures and Algorithms skills in Java.
 
 🤝 Open to collaborating on remote projects and open-source contributions
 
