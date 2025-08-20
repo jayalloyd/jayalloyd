@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 
 🎯 Career switcher leveraging prior professional skills + hands-on coding projects
 
-📚 Currently focused on strengthening my Data Structures and Algorithms skills in Java.
+📚 Currently focused on strengthening my Data Structures and Algorithms skills in Java,, while also exploring the **MERN stack** through personal projects and advanced concepts. 
 
 🤝 Open to collaborating on remote projects and open-source contributions
 
