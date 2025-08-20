@@ -25,7 +25,7 @@ Welcome to my GitHub profile!
 
 ## 🛠️ Tech Stack
 
-**Backend & AI**  
+**Backend **  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white)
