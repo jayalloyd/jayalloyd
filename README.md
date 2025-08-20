@@ -25,7 +25,9 @@ Welcome to my GitHub profile!
 
 ## 🛠️ Tech Stack
 
-**Backend **  
+
+**Backend**  
+
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
