@@ -5,7 +5,7 @@
 
 👋 Hi, I’m Jaya...
 
-Full-Stack Developer | Career Switcher | Open Source Contributor
+Full-Stack Developer | Career Switcher
 
 
 Welcome to my GitHub profile!
