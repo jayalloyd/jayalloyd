@@ -5,7 +5,7 @@
 
 👋 Hi, I’m Jaya...
 
-Full-Stack Developer | Career Switcher
+Full-Stack Developer | MERN | DSA-Java | Career Transition from Business & Management to a career in tech
 
 
 Welcome to my GitHub profile!
