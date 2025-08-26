@@ -53,8 +53,7 @@ Welcome to my GitHub profile!
 
 ## 🌐 Find Me Online
 
-- 📝 [Blog](https://jayalloyd.hashnode.dev/)
-- 🌍 [Portfolio](https://jayalloyd.netlify.app/)
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/jayarani-ys/)
 
 
