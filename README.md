@@ -51,9 +51,12 @@ Welcome to my GitHub profile!
 ![Jaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayalloyd&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayalloyd&layout=compact&theme=tokyonight)
 
-## 📫 Connect with Me
+## 🌐 Find Me Online
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayarani-ys/)
+- 📝 [Blog](https://jayalloyd.hashnode.dev/)
+- 🌍 [Portfolio](https://jayalloyd.netlify.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jayarani-ys/)
+
 
 
 ---
