@@ -56,6 +56,7 @@ Welcome to my GitHub profile!
 - 📝 [Blog](https://jayalloyd.hashnode.dev/)
 - 🌍 [Portfolio](https://jayalloyd.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jayarani-ys/)
+- 🏆 [LeetCode](https://leetcode.com/u/Lifezbeautiful87/)
 
 
 ---
