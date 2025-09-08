@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 
 🎯 Career switcher leveraging prior professional skills + hands-on coding projects
 
-📚 Currently focused on strengthening my Data Structures and Algorithms skills in Java,, while also exploring the **MERN stack** through personal projects and advanced concepts. 
+📚 Currently focused on strengthening my Data Structures and Algorithms skills in Java,, while also exploring the **MERN stack** through personal projects and advanced concepts(Docker,kubernetes,CI/CD). 
 
 🤝 Open to collaborating on remote projects and open-source contributions
 
@@ -38,7 +38,6 @@ Welcome to my GitHub profile!
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?logo=mongodb&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)  ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?logo=github-actions&logoColor=white)  
 
 **Other Skills**  
 
