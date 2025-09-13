@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 
 🎯 Career switcher leveraging prior professional skills + hands-on coding projects
 
-📚 Currently focused on strengthening my Data Structures and Algorithms , while also exploring the **MERN stack** through personal projects and advanced concepts(Docker,kubernetes,CI/CD). 
+📚 Currently focused on strengthening my Data Structures and Algorithms in JavaScript,while also exploring the **MERN stack** through personal projects and advanced concepts(Docker,kubernetes,CI/CD). 
 
 🤝 Open to collaborating on remote projects and open-source contributions
 
