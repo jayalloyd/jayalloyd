@@ -1,11 +1,7 @@
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=jayalloyd)
-
-
 👋 Hi, I’m Jaya...
 
-Full-Stack Developer | MERN | DSA | Career Transition from Business & Management to a career in tech
+Full Stack Developer | MERN | DSA | Leveraging Business Acumen for Robust Application Design | Remote Collaboration Enthusiast 
 
 
 Welcome to my GitHub profile!
@@ -52,9 +48,9 @@ Welcome to my GitHub profile!
 
 ## 🌐 Find Me Online
 
-- 📝 [Blog](https://jayalloyd.hashnode.dev/)
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/jayarani-ys/)
-- 🏆 [LeetCode](https://leetcode.com/u/jayacodes/)
+
 
 
 ---
