@@ -1,7 +1,8 @@
 
 👋 Hi, I’m Jaya...
 
-Full Stack Developer | MERN | DSA | Leveraging Business Acumen for Robust Application Design | Remote Collaboration Enthusiast 
+
+Full Stack Developer | MERN | DSA | Open Source Contributor | Leveraging Business Acumen for Robust Application Design
 
 
 Welcome to my GitHub profile!
