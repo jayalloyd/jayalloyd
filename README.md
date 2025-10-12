@@ -1,6 +1,7 @@
 
 👋 Hi, I’m Jaya...
 
+![meenu](https://github.com/user-attachments/assets/bf861e7c-37c7-4712-ad0b-9df0e94ee6f8)
 
 Full Stack Developer | MERN | DSA | Open Source Contributor | Leveraging Business Acumen for Robust Application Design
 
