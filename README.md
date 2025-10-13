@@ -36,12 +36,6 @@ Open for projects , roles ,and  Global Remote Roles— remote/hybrid preferred, 
 
 
 ---
-## Badges & Certifications
-
-![Holopin Level 1 Badge](https://www.holopin.io/hacktoberfest2025/userbadge/cmgokkt7r001aib042js3j734)  
-
-
-
 
 ## 📊 GitHub Stats
 
