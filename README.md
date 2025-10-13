@@ -1,23 +1,16 @@
 
-👋 Hi, I’m Jaya...
+👋 Hi, I’m Jaya...Welcome to my GitHub profile!
 
 ![meenu](https://github.com/user-attachments/assets/bf861e7c-37c7-4712-ad0b-9df0e94ee6f8)
 
-Full Stack Developer | MERN | DSA | Open Source Contributor | Leveraging Business Acumen for Robust Application Design
-
-
-Welcome to my GitHub profile!
-
 ---
+
 👨‍💻 About Me
 
-💻 Full-Stack Developer passionate about building end-to-end web applications with the MERN stack (MongoDB, Express.js, React, Node.js).
+I’m a passionate full stack developer from Kerala, India, with a background in business and a deep interest in building user-focused web apps. I love contributing to open source, practicing new technologies, and sharing my journey of career transition and growth in tech.
+Certified in MERN stack ,and Data Structures & Algorithms, I am eager to join a collaborative development team where I can apply both business insight and technical expertise to create value, solve problems, and drive innovation.  I'm proficient with Slack, Notion, and Zoom for effective remote collaboration.
+Open for projects , roles ,and  Global Remote Roles— remote/hybrid preferred, 📩message me if you need a reliable dev.
 
-🎯 Career switcher leveraging prior professional skills + hands-on coding projects
-
-📚 Currently focused on strengthening my Data Structures and Algorithms in JavaScript,while also exploring the **MERN stack** through personal projects and advanced concepts(Docker,kubernetes,CI/CD). 
-
-🤝 Open to collaborating on remote projects and open-source contributions
 
 ---
 
@@ -43,6 +36,9 @@ Welcome to my GitHub profile!
 
 
 ---
+
+
+
 ## 📊 GitHub Stats
 
 ![Jaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayalloyd&show_icons=true&theme=tokyonight)
