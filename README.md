@@ -5,11 +5,23 @@
 
 ---
 
-👨‍💻 About Me
+👨‍💻 **About Me**
 
-I’m a passionate full stack developer from Kerala, India, with a background in business and a deep interest in building user-focused web apps. I love contributing to open source, practicing new technologies, and sharing my journey of career transition and growth in tech.
-Certified in MERN stack ,and Data Structures & Algorithms, I am eager to join a collaborative development team where I can apply both business insight and technical expertise to create value, solve problems, and drive innovation.  I'm proficient with Slack, Notion, and Zoom for effective remote collaboration.
-Open for projects , roles ,and  Global Remote Roles— remote/hybrid preferred, 📩message me if you need a reliable dev.
+🌍 Full Stack Developer from Kerala, India  
+⚡ Skilled in MERN Stack | Certified in Data Structures & Algorithms  
+🚀 Passionate about building responsive, user-focused web apps & contributing to open source.  
+
+---
+
+💼 **Strengths & Tools**  
+- MERN Stack (MongoDB, Express.js, React, Node.js)  
+- Remote collaboration: Slack • Notion • Zoom  
+- Blend of technical skill & business insight to deliver scalable solutions  
+
+---
+
+💡 Open to:  
+📂 Open-source collaborations | 📈 Impact-driven projects | 🌐 Global remote/hybrid roles 
 
 
 ---
