@@ -46,7 +46,9 @@
 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)  ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white)  
 
----                                                                                                                                                                                                                                                Hacktoberfest 2025-Open source program                                                         
+---                                                                                                                                                                                                                                                
+
+## 🏅 My Hacktoberfest 2025 Badges                                                      
 [![@jayalloyd's Holopin board](https://holopin.me/@jayalloyd)](https://holopin.io/@jayalloyd)
 
 ## 📊 GitHub Stats
