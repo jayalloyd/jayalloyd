@@ -7,8 +7,12 @@
 
 👨‍💻 **About Me**
 
-🌍 Full Stack Developer from Kerala, India  
+🌍 Full Stack Developer from Kochi,Kerala, India  
+
 ⚡ Skilled in MERN Stack | Certified in Data Structures & Algorithms  
+
+📚 Currently focused on strengthening my Data Structures and Algorithms in JavaScript, while also exploring the **MERN stack** through personal projects and advanced concepts (Docker, Kubernetes, CI/CD, and cloud-native tooling).
+
 🚀 Passionate about building responsive, user-focused web apps & contributing to open source.  
 
 ---
@@ -60,6 +64,7 @@
 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jayarani-ys/)
+- - 🐧 [GitLab](https://gitlab.com/jayalloyd)
 
 
 
