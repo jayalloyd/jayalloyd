@@ -11,7 +11,7 @@
 
 ⚡ Skilled in MERN Stack | Certified in Data Structures & Algorithms  
 
-📚 Currently focused on strengthening my Data Structures and Algorithms in JavaScript, while also exploring the **MERN stack** through personal projects and advanced concepts (Docker, Kubernetes, CI/CD, and cloud-native tooling).
+📚 Currently focused on strengthening my Data Structures and Algorithms in Java, while also exploring the **MERN stack** through personal projects and advanced concepts (Docker, Kubernetes, CI/CD, and cloud-native tooling).
 
 🚀 Passionate about building responsive, user-focused web apps & contributing to open source.  
 
