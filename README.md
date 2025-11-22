@@ -72,10 +72,10 @@
 
 ---
 
-## 🌐 Find Me Online  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jayarani-ys/)  
-- 🐧 [GitLab](https://gitlab.com/jayalloyd)
+
+- 💼 [Find Me Online](https://linktr.ee/jayalloyd)  
+
 
 ---
 
