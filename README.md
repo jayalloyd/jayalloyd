@@ -67,10 +67,17 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayalloyd&layout=compact&theme=tokyonight)
 
 ---
+## 🤝 Freelance Services (Fiverr Gigs)
 
+* 💻 **Bring your design to responsive html,css:** [Fiverr Gig 1](https://www.fiverr.com/s/Ke4YaPk)
+* 🛠️ **custom front end UI with react and tailwind css,bootstrap Gig:** [Fiverr Gig 2](https://www.fiverr.com/s/DBkg04N)
+---
+  ## 🔗 Connect With Me
 
-
-- 💼 [Find Me Online](https://linktr.ee/jayalloyd)  
+* 💼 **LinkedIn:** [jayarani-ys](https://www.linkedin.com/in/jayarani-ys/)
+* ✍️ **Blog/Articles (Hashnode):** [jayalloyd.hashnode.dev](https://jayalloyd.hashnode.dev)
+* 🌐 **GitLab:** [jayalloyd](https://gitlab.com/jayalloyd)
+* 🐦 **X (formerly Twitter):** [jayacodes](https://x.com/jayacodes)
 
 
 ---
