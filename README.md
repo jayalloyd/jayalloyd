@@ -28,10 +28,6 @@
 ## 💡 Open To  
 📂 Open-source collaborations • 📈 Impact-driven projects • 🌐 Global remote or hybrid roles  
 
-### Check out my Fiverr Gigs:
-🎨 [I will bring your design to life with pixel-perfect HTML & CSS](https://www.fiverr.com/s/o89DYEL)  
-⚛️ [I will develop custom React front-end UI with Tailwind CSS or Bootstrap](https://www.fiverr.com/s/kLKdzgo)
-
 ---
 
 ## 🛠️ Tech Stack  
