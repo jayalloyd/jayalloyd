@@ -59,18 +59,6 @@
 [![@jayalloyd's Holopin board](https://holopin.me/@jayalloyd)](https://holopin.io/@jayalloyd)
 
 ---
-
-## 📊 GitHub Stats  
-
-![Jaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayalloyd&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayalloyd&layout=compact&theme=tokyonight)
-
----
-## 🤝 Freelance Services (Fiverr Gigs)
-
-* 💻 **Bring your design to responsive html,css:** [Fiverr Gig 1](https://www.fiverr.com/s/Ke4YaPk)
-* 🛠️ **custom front end UI with react and tailwind css,bootstrap Gig:** [Fiverr Gig 2](https://www.fiverr.com/s/DBkg04N)
----
   ## 🔗 Connect With Me
 
 * 💼 **LinkedIn:** [jayarani-ys](https://www.linkedin.com/in/jayarani-ys/)
