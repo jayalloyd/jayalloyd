@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=jayalloyd)
 
 👋 Hi, I’m Jaya! Welcome to my GitHub profile.  
-![meenu](https://github.com/user-attachments/assets/bf861e7c-37c7-4712-ad0b-9df0e94ee6f8)
 
 ---
 
