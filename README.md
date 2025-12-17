@@ -4,7 +4,7 @@
 
 ---
 
-## 👨💻 About Me  
+## 💻 About Me  
 
 🌍 Full Stack Developer from Kochi, Kerala, India  
 ⚡ Skilled in MERN Stack | Certified in Data Structures & Algorithms  
