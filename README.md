@@ -23,8 +23,8 @@
 
 ## 💡 Open To  
 
-📂 Open-source collaborations •  
-📈 Impact-driven projects •  
+📂 Open-source collaborations 
+📈 Impact-driven projects 
 🌐 Global remote or hybrid roles  
 
 ---
@@ -48,10 +48,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
 
-**Other Skills**  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)  
-![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white)  
 
 ---
 
