@@ -55,12 +55,7 @@
 
 [![@jayalloyd's Holopin board](https://holopin.me/@jayalloyd)](https://holopin.io/@jayalloyd)  
 
----
 
-## 📊 GitHub Stats  
-
-![Jaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayalloyd&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayalloyd&layout=compact&theme=tokyonight)  
 
 ---
 
