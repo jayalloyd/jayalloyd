@@ -68,7 +68,6 @@
 - 💼 **Find Me Online**
 
   - [LinkedIn](https://www.linkedin.com/in/jayarani-ys/)  
-  - [Hashnode Blog](https://jayalloyd.hashnode.dev)  
   - [GitLab](https://gitlab.com/jayalloyd)  
 
 ---
