@@ -68,7 +68,8 @@
 - 💼 **Find Me Online**
 
   - [LinkedIn](https://www.linkedin.com/in/jayarani-ys/)  
-  - [GitLab](https://gitlab.com/jayalloyd)  
+  - [GitLab](https://gitlab.com/jayalloyd)
+  - [Portfolio](https://jayalloyd.netlify.app)
 
 ---
 
