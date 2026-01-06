@@ -74,11 +74,4 @@
 
 ---
 
-## 💼 Freelance Gigs
-
-- Bring your design to responsive and interactive HTML & CSS — [Fiverr gig](https://www.fiverr.com/s/EgLjbPD)  
-- Develop custom front-end UI with React and Tailwind CSS / Bootstrap — [Fiverr gig](https://www.fiverr.com/s/lj4dA12)
-
----
-
 ✨ Thanks for visiting my profile! Let’s connect and build something awesome together 🚀
