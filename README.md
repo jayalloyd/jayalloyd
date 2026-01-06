@@ -2,7 +2,8 @@
 
 👋 Hi, I’m Jaya! Welcome to my GitHub profile.  
 
----
+---![meenugible](https://github.com/user-attachments/assets/ae24d148-cb47-4e03-ba49-2df82a2d4f34)
+
 
 ## 💻 About Me  
 
@@ -70,6 +71,13 @@
   - [LinkedIn](https://www.linkedin.com/in/jayarani-ys/)  
   - [GitLab](https://gitlab.com/jayalloyd)
  
+
+---
+
+## 💼 Freelance Gigs
+
+- Bring your design to responsive and interactive HTML & CSS — [Fiverr gig](https://www.fiverr.com/s/EgLjbPD)  
+- Develop custom front-end UI with React and Tailwind CSS / Bootstrap — [Fiverr gig](https://www.fiverr.com/s/lj4dA12)
 
 ---
 
