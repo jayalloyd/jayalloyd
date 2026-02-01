@@ -58,7 +58,10 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
 
-
+**DevOps & Infrastructure**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?logo=github-actions&logoColor=white) 
 ---
 
 ## 🏅 Hacktoberfest 2025 Badges  
