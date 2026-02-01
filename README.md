@@ -9,7 +9,7 @@
 
 🌍 Full Stack Developer  - Frontend Focused  | Open Source Contributor
 ⚡ Skilled in MERN Stack | Certified in Data Structures & Algorithms  
-📚 Currently strengthening my Data Structures and Algorithms in Java and deepening my MERN expertise through advanced concepts such as Docker, Kubernetes, CI/CD, and cloud-native tooling.  
+📚 Currently diving into Next.js, TypeScript, and self-learning Python , AI/ML to build smarter apps.
 🚀 Passionate about building responsive, user-focused web applications and contributing to open source projects.  
 
 ---
