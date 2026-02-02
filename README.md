@@ -11,7 +11,7 @@
 
 ⚡ Skilled in MERN Stack | Certified in Data Structures & Algorithms  
 
-📚 📚 Currently diving into Next.js and TypeScript, while exploring Python & AI/ML to integrate intelligent features into web applications.
+📚 Currently diving into Next.js and TypeScript, while exploring Python & AI/ML to integrate intelligent features into web applications.
 
 🚀 Passionate about building responsive, user-focused web applications and contributing to open source projects.  
 
