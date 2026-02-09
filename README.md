@@ -11,6 +11,8 @@
 
 ⚡ Skilled in MERN Stack | Certified in Data Structures & Algorithms  
 
+📚 Actively learning AI/ML to build smarter applications 
+
 🚀 Passionate about building responsive, user-focused web applications and contributing to open source projects.  
 
 ---
