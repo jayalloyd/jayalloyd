@@ -76,6 +76,8 @@
 
   - [LinkedIn](https://www.linkedin.com/in/jayarani-ys/)  
   - [GitLab](https://gitlab.com/jayalloyd)
+  - [Portfolio](https://jayalloyd.netlify.app/)
+  - [X-Twitter](https://x.com/jayacodes/)
  
 
 ---
