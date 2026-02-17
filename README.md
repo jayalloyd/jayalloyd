@@ -2,8 +2,6 @@
 
 👋 Hi, I’m Jaya! Welcome to my GitHub profile.  
 
----![meenugible](https://github.com/user-attachments/assets/ae24d148-cb47-4e03-ba49-2df82a2d4f34)
-
 
 ## 💻 About Me  
 
