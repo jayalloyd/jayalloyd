@@ -30,7 +30,7 @@ I am a **B.Tech (IT)** and **MBA (Finance)** graduate with 6+ years of operation
 
 ### [StayNest](https://github.com/jayalloyd/staynest) 🏠
 *Full-stack Marketplace platform with secure booking logic.*
-- **Features:** JWT Authentication, Image hosting via Multer, and Map integration.
+- **Features:** JWT Authentication, Image hosting via Multer.
 - **Focus:** User-centric UI/UX and robust CRUD operations.
 
 ---
