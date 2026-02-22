@@ -22,11 +22,6 @@ I am a **B.Tech (IT)** and **MBA (Finance)** graduate with 6+ years of operation
 
 ## 📈 Featured Projects
 
-### [Quantify](https://github.com/jayalloyd/quantify) 💹
-*A Real-Time Trading & Financial Analytics Dashboard.*
-- **Core Tech:** MERN Stack + WebSockets + Chart.js.
-- **Business Logic:** Implements real-time price streaming and atomic transaction handling.
-- **Performance:** Optimized for a **98% Lighthouse Score** using lazy loading and state memoization.
 
 ### [StayNest](https://github.com/jayalloyd/staynest) 🏠
 *Full-stack Marketplace platform with secure booking logic.*
