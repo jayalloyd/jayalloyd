@@ -47,7 +47,7 @@ I am a **B.Tech (IT)** and **MBA (Finance)** graduate with 6+ years of operation
 [![@jayalloyd's Holopin board](https://holopin.me/@jayalloyd)](https://holopin.io/@jayalloyd)
 
 ---
-## ✍️ Recent Blog Posts
+## ✍️I love documenting my learning process. Here are my latest thoughts on tech and DSA- Recent Blog Posts
 
 <table>
   <tr>
