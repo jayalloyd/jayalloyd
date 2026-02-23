@@ -47,7 +47,7 @@ I am a **B.Tech (IT)** and **MBA (Finance)** graduate with 6+ years of operation
 [![@jayalloyd's Holopin board](https://holopin.me/@jayalloyd)](https://holopin.io/@jayalloyd)
 
 ---
-## ✍️I love documenting my learning process. Here are my latest thoughts on tech and DSA- Recent Blog Posts
+## ✍️ I love documenting my learning process. Here are my latest thoughts on tech and DSA:
 
 <table>
   <tr>
@@ -62,10 +62,14 @@ I am a **B.Tech (IT)** and **MBA (Finance)** graduate with 6+ years of operation
       </a>
     </td>
   </tr>
-</table>
-
----
----
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://jayalloyd.hashnode.dev/myfreelancing-career">
+        <img src="https://img.shields.io/badge/Freelancing_&_Gigs-Click_to_Read-00b22d?style=for-the-badge&logo=fiverr" alt="Freelancing Blog">
+      </a>
+    </td>
+  </tr>
+</table> 
 
 ## 💡 Why Collaborate With Me?
 Because of my **MBA in Finance**, I don't just write functions; I solve business problems. I understand the cost of technical debt, the importance of scalability, and the necessity of high-frequency data accuracy.
