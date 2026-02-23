@@ -57,7 +57,7 @@ I am a **B.Tech (IT)** and **MBA (Finance)** graduate with 6+ years of operation
       </a>
     </td>
     <td>
-      <a href="https://jayalloyd.hashnode.dev/myjourney-towards-rech-career">
+      <a href="https://jayalloyd.hashnode.dev/myjourney-towards-tech-career">
         <img src="https://img.shields.io/badge/My_Tech_Journey-Click_to_Read-magenta?style=for-the-badge&logo=hashnode" alt="Career Journey Blog">
       </a>
     </td>
