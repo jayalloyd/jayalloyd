@@ -47,6 +47,25 @@ I am a **B.Tech (IT)** and **MBA (Finance)** graduate with 6+ years of operation
 [![@jayalloyd's Holopin board](https://holopin.me/@jayalloyd)](https://holopin.io/@jayalloyd)
 
 ---
+## ✍️ Recent Blog Posts
+
+<table>
+  <tr>
+    <td>
+      <a href="https://jayalloyd.hashnode.dev/DSA-book">
+        <img src="https://img.shields.io/badge/DSA_Resources-Click_to_Read-blue?style=for-the-badge&logo=hashnode" alt="DSA Blog">
+      </a>
+    </td>
+    <td>
+      <a href="https://jayalloyd.hashnode.dev/myjourney-towards-rech-career">
+        <img src="https://img.shields.io/badge/My_Tech_Journey-Click_to_Read-magenta?style=for-the-badge&logo=hashnode" alt="Career Journey Blog">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+---
 
 ## 💡 Why Collaborate With Me?
 Because of my **MBA in Finance**, I don't just write functions; I solve business problems. I understand the cost of technical debt, the importance of scalability, and the necessity of high-frequency data accuracy.
