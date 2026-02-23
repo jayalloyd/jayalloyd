@@ -38,7 +38,7 @@ I am a **B.Tech (IT)** and **MBA (Finance)** graduate with 6+ years of operation
 ## 🏆 Global Impact & Recognition
 
 - **Hacktoberfest 2025:** Ranked in the **Top 10,000 Global Participants** (out of 100k+).
-- **Outreachy (Wikimedia):** Selected contributor focusing on building responsive, interactive components for global knowledge sharing.
+- **Outreachy (Wikimedia):** Actively involved in the pre-selection process for Wikimedia, contributing to the development of interactive custom banners—demonstrating commitment to complex open-source collaboration.
 - **Open Source:** Active contributor to JS-based repositories, focusing on performance fixes and documentation.
 
 ---
@@ -47,35 +47,20 @@ I am a **B.Tech (IT)** and **MBA (Finance)** graduate with 6+ years of operation
 [![@jayalloyd's Holopin board](https://holopin.me/@jayalloyd)](https://holopin.io/@jayalloyd)
 
 ---
-## ✍️ I love documenting my learning process. Here are my latest thoughts on tech and DSA:
+## 
 
 <table>
   <tr>
-    <td>
-      <a href="https://jayalloyd.hashnode.dev/DSA-book">
-        <img src="https://img.shields.io/badge/DSA_Resources-Click_to_Read-blue?style=for-the-badge&logo=hashnode" alt="DSA Blog">
-      </a>
-    </td>
-    <td>
+       <td>
       <a href="https://jayalloyd.hashnode.dev/myjourney-towards-tech-career">
         <img src="https://img.shields.io/badge/My_Tech_Journey-Click_to_Read-magenta?style=for-the-badge&logo=hashnode" alt="Career Journey Blog">
       </a>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://jayalloyd.hashnode.dev/myfreelancing-career">
-        <img src="https://img.shields.io/badge/Freelancing_&_Gigs-Click_to_Read-00b22d?style=for-the-badge&logo=fiverr" alt="Freelancing Blog">
-      </a>
-    </td>
-  </tr>
+  
 </table> 
 
-## 💡 Why Collaborate With Me?
-Because of my **MBA in Finance**, I don't just write functions; I solve business problems. I understand the cost of technical debt, the importance of scalability, and the necessity of high-frequency data accuracy.
-
-📫 **Let's Connect:**
-Contact me via LinkedIn for opportunities
+📫 **Contact me via LinkedIn for opportunities**
 [LinkedIn](https://www.linkedin.com/in/jayarani-ys/) 
 
 ✨ *Currently exploring AI/ML integration in FinTech to drive smarter user experiences.*
