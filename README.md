@@ -75,6 +75,7 @@ I am a **B.Tech (IT)** and **MBA (Finance)** graduate with 6+ years of operation
 Because of my **MBA in Finance**, I don't just write functions; I solve business problems. I understand the cost of technical debt, the importance of scalability, and the necessity of high-frequency data accuracy.
 
 📫 **Let's Connect:**
+Contact me via LinkedIn for opportunities
 [LinkedIn](https://www.linkedin.com/in/jayarani-ys/) 
 
 ✨ *Currently exploring AI/ML integration in FinTech to drive smarter user experiences.*
