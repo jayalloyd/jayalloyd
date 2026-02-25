@@ -1,6 +1,6 @@
 # 👋 Hi,
 
-I’m Jaya Rani | Full Stack Engineer & FinTech Specialist
+I’m Jaya Rani | Full Stack Engineer 
 
 ![](https://komarev.com/ghpvc/?username=jayalloyd&color=blueviolet&style=flat-square)
 
@@ -19,19 +19,6 @@ I am a **B.Tech (IT)** and **MBA (Finance)** graduate with 6+ years of operation
 | **DevOps/Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
 
 ---
-
-## 📈 Featured Projects
-
-### [Quantify](https://github.com/jayalloyd/quantify) 💹
-*A Real-Time Trading & Financial Analytics Dashboard.*
-- **Core Tech:** MERN Stack + WebSockets + Chart.js.
-- **Business Logic:** Implements real-time price streaming and atomic transaction handling.
-- **Performance:** Optimized for a **98% Lighthouse Score** using lazy loading and state memoization.
-
-### [StayNest](https://github.com/jayalloyd/staynest) 🏠
-*Full-stack Marketplace platform with secure booking logic.*
-- **Features:** JWT Authentication, Image hosting via Multer.
-- **Focus:** User-centric UI/UX and robust CRUD operations.
 
 ---
 
@@ -63,4 +50,3 @@ I am a **B.Tech (IT)** and **MBA (Finance)** graduate with 6+ years of operation
 📫 **Contact me via LinkedIn for opportunities**
 [LinkedIn](https://www.linkedin.com/in/jayarani-ys/) 
 
-✨ *Currently exploring AI/ML integration in FinTech to drive smarter user experiences.*
