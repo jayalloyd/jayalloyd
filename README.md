@@ -48,5 +48,7 @@ I am a **B.Tech (IT)** and **MBA (Finance)** graduate with 6+ years of operation
 </table> 
 
 📫 **Contact me via LinkedIn for opportunities**
-[LinkedIn](https://www.linkedin.com/in/jayarani-ys/) 
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="jayarani-ys" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/jayarani-ys?trk=profile-badge">Jaya Rani .Y.S.</a></div>
+              
 
