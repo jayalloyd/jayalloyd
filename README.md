@@ -5,7 +5,8 @@ I'm Jaya Rani | Full Stack Engineer
 ![](https://komarev.com/ghpvc/?username=jayalloyd&color=blueviolet&style=flat-square)
 
 ### 
-I am a **B.Tech (IT)** and **MBA (Finance)** graduate with 6+ years of operational leadership experience. I specialize in the **MERN Stack**, focusing on building scalable, real-time financial applications where data integrity and performance are non-negotiable.
+I am a **B.Tech (IT)** and **MBA (Finance)** graduate with 6+ years of operational leadership experience. I transitioned into software engineering from Business Management.
+I specialize in the **MERN Stack**, focusing on building scalable, real-time financial applications where data integrity and performance are non-negotiable.
 
 ---
 
