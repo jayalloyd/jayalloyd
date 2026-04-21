@@ -28,7 +28,13 @@ I specialize in the **MERN Stack**, focusing on building scalable, real-time fin
 - **Open Source:** Active contributor to JS-based repositories, focusing on performance fixes and documentation.
 
 ---
+## GirlScript Summer of Code (GSSoC) 2026
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/b44563a6-f6d8-4ff2-b530-bcce50b280b5" width="150" height="150" alt="gssoc 2026 badge 1" />
+  <img src="https://github.com/user-attachments/assets/bf201c33-d0b7-44aa-a4e9-f91a7ee63c7e" width="150" height="150" alt="gssoc 2026 badge 2" />
+</p>
 
+---
 ## 🏅 Hacktoberfest 2025 Achievements
 [![@jayalloyd's Holopin board](https://holopin.me/@jayalloyd)](https://holopin.io/@jayalloyd)
 
