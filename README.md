@@ -1,6 +1,6 @@
 # 👋 Hi,
 
-I'm Jaya Rani | Full Stack Engineer 
+I'm Jaya Rani 
 
 ![](https://komarev.com/ghpvc/?username=jayalloyd&color=blueviolet&style=flat-square)
 
