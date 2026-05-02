@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Jaya Rani 
-<img width="400" height="400" alt="meenu" src="https://github.com/user-attachments/assets/566d43dc-756d-486b-a50f-30dd83e24dec" />
+
 
 I am a **B.Tech (IT)** and **MBA (Finance)** graduate with 6+ years of operational leadership experience. I transitioned into software engineering from Business Management. I specialize in the **MERN Stack**, focusing on building scalable, real-time financial applications where data integrity and performance are non-negotiable.
 
