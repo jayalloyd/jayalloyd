@@ -27,6 +27,9 @@ I specialize in the **MERN Stack**, focusing on building scalable, real-time fin
 - **Outreachy (Wikimedia):** Actively involved in the pre-selection process for Wikimedia, contributing to the development of interactive custom banners—demonstrating commitment to complex open-source collaboration.
 - **Open Source:** Active contributor to JS-based repositories, focusing on performance fixes and documentation.
 
+---
+## 🏅 GirlScript Summer of Code 2026 Achievements
+<img  height="150" alt="open (1)" src="https://github.com/user-attachments/assets/e42dff76-781d-4c64-bf64-b12f94968373" /><img height="150" alt="contributor (1)" src="https://github.com/user-attachments/assets/eedc6bce-5aa5-4a3c-99ea-8f504ab53048" />
 
 
 ---
