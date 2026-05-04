@@ -25,6 +25,12 @@ I am a **B.Tech (IT)** and **MBA (Finance)** graduate with 6+ years of operation
 - **Open Source:** Active contributor to JS-based repositories, focusing on performance fixes and documentation.
 
 ---
+## 🏅 Social Summer of Code 2026 Achievements
+<p align="left">
+
+  <img  height="125px" alt="ssoc-s5-contributor-jayalloyd" src="https://github.com/user-attachments/assets/d4fbc361-38bf-44fb-ba8e-84434b2e5c4a" />
+
+</p>
 
 ## 🏅 GirlScript Summer of Code 2026 Achievements
 <p align="left">
