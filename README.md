@@ -19,30 +19,14 @@ I am a **B.Tech (IT)** and **MBA (Finance)** graduate with 6+ years of operation
 ## 🏆 Global Impact & Recognition
 
 
-- **GirlScript Summer of Code 2026:** Selected to contribute to high-impact open source projects.
+
 - **Hacktoberfest 2025:** Ranked in the **Top 10,000 Global Participants** (out of 100k+).
 - **Outreachy (Wikimedia):** Actively involved in the pre-selection process for Wikimedia, contributing to the development of interactive custom banners.
 - **Open Source:** Active contributor to JS-based repositories, focusing on performance fixes and documentation.
 
----
-
-## 🏅 GirlScript Summer of Code 2026 Achievements
-<p align="left">
-  <a href="https://gssoc.girlscript.org/profile/c9e43620-d378-4c17-a860-0e9c9ac20578" target="_blank">
-    <img src="https://github.com/user-attachments/assets/e42dff76-781d-4c64-bf64-b12f94968373" alt="GSSoC 2026 Open Badge" height="125px"/>
-  </a>
-  &nbsp;
-  <a href="https://gssoc.girlscript.org/profile/c9e43620-d378-4c17-a860-0e9c9ac20578" target="_blank">
-    <img src="https://github.com/user-attachments/assets/eedc6bce-5aa5-4a3c-99ea-8f504ab53048" alt="GSSoC 2026 Contributor Badge" height="125px"/>
-  </a>
-</p>
 
 ---
 
-## 🏅 Hacktoberfest 2025 Achievements
-[![@jayalloyd's Holopin board](https://holopin.me/@jayalloyd)](https://holopin.io/@jayalloyd)
-
----
 
 ##
 
