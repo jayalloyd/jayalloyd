@@ -19,7 +19,7 @@ I am a **B.Tech (IT)** and **MBA (Finance)** graduate with 6+ years of operation
 ## 🏆 Global Impact & Recognition
 
 
-- **GirlScript Summer of code 2026:** Selected to conrtibute to high impact open source projects.
+- **GirlScript Summer of code 2026:** Selected to contribute to high impact open source projects.
 - **Hacktoberfest 2025:** Ranked in the **Top 10,000 Global Participants** (out of 100k+).
 - **Outreachy (Wikimedia):** Actively involved in the pre-selection process for Wikimedia, contributing to the development of interactive custom banners.
 - **Open Source:** Active contributor to JS-based repositories, focusing on performance fixes and documentation.
