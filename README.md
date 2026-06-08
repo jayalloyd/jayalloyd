@@ -1,6 +1,5 @@
 
 # 👋 Hi, I'm Jaya Rani 
-![](https://komarev.com/ghpvc/?username=jayalloyd&color=blueviolet&style=flat-square)
 
 I transitioned from business management into software engineering. I specialize in the **MERN Stack**, focusing on building scalable, real-time financial applications where data integrity and performance are non-negotiable.
 
