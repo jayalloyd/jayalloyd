@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Jaya Rani 
 ![](https://komarev.com/ghpvc/?username=jayalloyd&color=blueviolet&style=flat-square)
 
-I am a **B.Tech (IT)** and **MBA (Finance)** graduate with 6+ years of operational leadership experience. I transitioned into software engineering from Business Management. I specialize in the **MERN Stack**, focusing on building scalable, real-time financial applications where data integrity and performance are non-negotiable.
+ I transitioned into software engineering from Business Management. I specialize in the **MERN Stack**, focusing on building scalable, real-time financial applications where data integrity and performance are non-negotiable.
 
 ---
 
@@ -14,17 +14,6 @@ I am a **B.Tech (IT)** and **MBA (Finance)** graduate with 6+ years of operation
 | **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Multer](https://img.shields.io/badge/-Multer-E91E63?style=flat-square&logo=npm&logoColor=white) |
 | **Database & Media** | ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) ||
 | **Cloud & Deployment** |  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  ![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
----
-
-## 🏆 Global Impact & Recognition
-
-
-
-- **Hacktoberfest 2025:** Ranked in the **Top 10,000 Global Participants** (out of 100k+).
-- **Outreachy (Wikimedia):** Actively involved in the pre-selection process for Wikimedia, contributing to the development of interactive custom banners.
-- **Open Source:** Active contributor to JS-based repositories, focusing on performance fixes and documentation.
-
-
 ---
 
 ---
